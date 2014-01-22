@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Ishan</title>
- <link href="http://ishanverma.github.io/atom.xml" rel="self"/>
- <link href="http://ishanverma.github.io/"/>
- <updated>2014-01-22T17:15:19+05:30</updated>
- <id>http://ishanverma.github.io</id>
+ <link href="http://hydesample.wuxxa.com/atom.xml" rel="self"/>
+ <link href="http://hydesample.wuxxa.com/"/>
+ <updated>2014-01-22T17:53:24+05:30</updated>
+ <id>http://hydesample.wuxxa.com</id>
  <author>
    <name></name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Hello, world!</title>
-   <link href="http://ishanverma.github.io/2013/12/28/hello-world/"/>
+   <link href="http://hydesample.wuxxa.com/2013/12/28/hello-world/"/>
    <updated>2013-12-28T00:00:00+05:30</updated>
-   <id>http://ishanverma.github.io/2013/12/28/hello-world</id>
+   <id>http://hydesample.wuxxa.com/2013/12/28/hello-world</id>
    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;http://andhyde.com&quot;&gt;Hyde&lt;/a&gt;, the perfect companion to &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, the popular static site generator. Hyde is an elegant, open source, mobile first theme for Jekyll. It includes lightweight styles and placeholder content to get you up and running with a simple blog in no time.&lt;/p&gt;
 
 &lt;h3 id=&quot;features&quot;&gt;Features&lt;/h3&gt;
@@ -52,9 +52,9 @@
  
  <entry>
    <title>Example content</title>
-   <link href="http://ishanverma.github.io/2012/02/07/example-content/"/>
+   <link href="http://hydesample.wuxxa.com/2012/02/07/example-content/"/>
    <updated>2012-02-07T00:00:00+05:30</updated>
-   <id>http://ishanverma.github.io/2012/02/07/example-content</id>
+   <id>http://hydesample.wuxxa.com/2012/02/07/example-content</id>
    <content type="html">&lt;p&gt;This blog post shows a few different types of content that’s supported and styled with Hyde. Basic typography, images, and code are all supported.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&#39;#&#39;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
@@ -112,9 +112,9 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://ishanverma.github.io/2012/02/06/whats-jekyll/"/>
+   <link href="http://hydesample.wuxxa.com/2012/02/06/whats-jekyll/"/>
    <updated>2012-02-06T00:00:00+05:30</updated>
-   <id>http://ishanverma.github.io/2012/02/06/whats-jekyll</id>
+   <id>http://hydesample.wuxxa.com/2012/02/06/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;p&gt;&amp;gt; Jekyll is a simple, blog aware, static site generator. It takes a template directory [] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
